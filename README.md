@@ -11,3 +11,5 @@ java -jar builds/libs/BooksCrud-1.0-SNAPSHOT-all.jar
 Or use the bundled jar
 
 java -jar BooksCrud-1.0-SNAPSHOT-all.jar
+
+The server is running on port 8080
